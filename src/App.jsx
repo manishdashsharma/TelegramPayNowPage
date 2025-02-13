@@ -52,7 +52,7 @@ function App() {
               <p className="text-gray-400 mt-2">Click below to verify on Telegram.</p>
 
               <a
-                href="https://t.me/OneAppDemo?start=verify"
+                href="https://t.me/OneAppDemoBot?start=verify"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-6 inline-block px-6 py-3 bg-indigo-600 text-white font-bold rounded-lg hover:bg-indigo-700 transition-all duration-200 transform hover:scale-105 shadow-lg hover:shadow-indigo-500/30"
